@@ -23,7 +23,7 @@ Author: Z1004115744
 
 Date: December 21, 2020
 
-Repo: https://github.com/zhangxiaoran0317/STA304-Final-Project/blob/main/README.md
+Repo: https://github.com/zhangxiaoran0317/STA304-Final-Project/blob/main/Data%20Analysis%20on%20Toronto%20Apartment%20Evaluation%20Score.Rmd
 
 ## Keywords
 
