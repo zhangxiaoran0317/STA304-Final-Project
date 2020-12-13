@@ -2,7 +2,7 @@
 title: "Data Analysis on Toronto Apartment Building Evaluation Score"
 author: "Z1004115744"
 date: "21/12/2020"
-output: html_document
+output: pdf_document
 ---
 
 ```{r, echo=FALSE}
